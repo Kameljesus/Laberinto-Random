@@ -1,1 +1,1 @@
-# Laberinto-Random
+Hola, en este proyecto tuve que hacer que un laberinto se generara y se resolviera por sí solo. Para ello, plateé y armé toda mi lógica y código en Python para luego traspasarlo a C++. Use DFS para generar el laberinto y BFS para que se pudiera resolver solo. También esta la opción de jugador manual.
